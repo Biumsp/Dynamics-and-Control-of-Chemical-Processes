@@ -1,7 +1,7 @@
 # Dynamics and Control of Chemical Processes
 Codes and notes to solve problems of the DCCP course a PoliMi
 
-### Cloning this repository on your local machine
+### Cloning this repository to your local machine
 To use this repository on your local machine you need a properly set Python virtual environment (venv).
 All the needed libraries are listed in the `requirements.txt` file.
 To install those libraries directly from the file you need to follow these steps (from cmd):
